@@ -1,0 +1,14 @@
+C:\Users\BloodFox\source\repos\пуф\пуф\bin\Debug\net6.0\пуф.exe
+C:\Users\BloodFox\source\repos\пуф\пуф\bin\Debug\net6.0\пуф.deps.json
+C:\Users\BloodFox\source\repos\пуф\пуф\bin\Debug\net6.0\пуф.runtimeconfig.json
+C:\Users\BloodFox\source\repos\пуф\пуф\bin\Debug\net6.0\пуф.dll
+C:\Users\BloodFox\source\repos\пуф\пуф\bin\Debug\net6.0\пуф.pdb
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.AssemblyInfoInputs.cache
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.AssemblyInfo.cs
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.csproj.CoreCompileInputs.cache
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.dll
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\refint\пуф.dll
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.pdb
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\пуф.genruntimeconfig.cache
+C:\Users\BloodFox\source\repos\пуф\пуф\obj\Debug\net6.0\ref\пуф.dll
